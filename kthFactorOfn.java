@@ -1,4 +1,5 @@
 //https://leetcode.com/problems/the-kth-factor-of-n/
+//#Math
 
 class Solution {
     public int kthFactor(int n, int k) 
