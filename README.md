@@ -1,2 +1,2 @@
 # Leetcode
-Leetcode questions with solutions.
+Yashh Jaggi - Leetcode questions with solutions.
